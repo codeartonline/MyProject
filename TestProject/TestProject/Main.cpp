@@ -8,7 +8,4 @@ void main()
 	cout << "Test2" << endl;
 
 	printf("Test3");
-	printf("Test4");
-
-	
 }
