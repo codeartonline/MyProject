@@ -6,4 +6,6 @@ void main()
 	printf("Test");
 
 	cout << "Test2" << endl;
+
+	printf("Test3");
 }
